@@ -1,8 +1,7 @@
 import requests
 import json
 import datetime
-from names import Friends_List
-import time
+import names
 
 
 URL = 'http://www.way2sms.com/api/v1/sendCampaign'
